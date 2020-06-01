@@ -1,6 +1,6 @@
-# Awesome Electron hacking & pentesting resources
+# Awesome Electron.js hacking & pentesting resources
 
-This list aims to cover Electron security related topics.
+This list aims to cover Electron.js security related topics.
 
 Feel free to contribute by opening a PR if you think something is missing to the list!
 
