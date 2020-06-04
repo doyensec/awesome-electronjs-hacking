@@ -10,12 +10,12 @@ This list aims to cover Electron.js security related topics.
 
 ## Presentations
 
-- [Electronegativity - A Study of Electron Security, Luca Carettoni, BlackHat USA 2017](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security.pdf) & [video](https://www.youtube.com/watch?v=oJWsBHlt0ZM)
-- [Preloading Insecurity In Your Electron, Luca Carettoni, BlackHat Asia 2019](https://doyensec.com/resources/Asia-19-Carettoni-Preloading-Insecurity-In-Your-Electron.pdf) & [video](https://www.youtube.com/watch?v=Hw6JShd8Jxw)
+- ["Electronegativity - A Study of Electron Security", Luca Carettoni, BlackHat USA 2017](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security.pdf) & [video](https://www.youtube.com/watch?v=oJWsBHlt0ZM)
+- ["Preloading Insecurity In Your Electron", Luca Carettoni, BlackHat Asia 2019](https://doyensec.com/resources/Asia-19-Carettoni-Preloading-Insecurity-In-Your-Electron.pdf) & [video](https://www.youtube.com/watch?v=Hw6JShd8Jxw)
 - ["MarkDoom: How I Hacked Every Major IDE in 2 Weeks", Matt Austin, APPSEC Cali 2018](https://docs.google.com/presentation/d/1wQM4fhjCJ9r3DQ-c98XJFkrd83odM94FaJPqstTR68c)
-- [Democratizing Electron.js Security, Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf) & [video](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
-- [Juho Nurminen – app setAsDefaultRCE Client: Electron, scheme handlers and stealthy security patches](https://www.youtube.com/watch?v=A9qJHqWYl_4)
-- [Remote Code Execution on Electron Applications, PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
+- ["Democratizing Electron.js Security", Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf) & [video](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
+- ["app setAsDefaultRCE Client: Electron, scheme handlers and stealthy security patches", Juho Nurminen, ZeroNights 2019](https://zeronights.ru/wp-content/themes/zeronights-2019/public/materials/1_ZN2019_Juho_Nurminen.pdf) and [video](https://www.youtube.com/watch?v=A9qJHqWYl_4)
+- ["Remote Code Execution on Electron Applications", PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
 - ["Full Steam Ahead: Remotely Executing Code in Modern Desktop Application Architectures", Thomas Shadwell, INFILTRATE 2019](https://vimeo.com/335206831)
 - ["MarkDoom: How I Hacked Every Major IDE in 2 Weeks", Matt Austin, APPSEC Cali 2018](https://www.youtube.com/watch?v=a-YnG3Mx-Tg)
 - ["Building a secure web browser in Electron", Yan @bcrypt, Electron Meetup 2/2018](https://www.youtube.com/watch?v=Qirdy1TP1Rw)
@@ -35,8 +35,8 @@ This list aims to cover Electron.js security related topics.
 
 ## Vulnerabilities Write-Ups and Exploits
 
-- [Hacking Mattermost #2: Year of Node.js on the Desktop](http://haxx.ml/post/145508617751/hacking-mattermost-2-year-of-nodejs-on-the?is_related_post=1)
-- [Subverting Electron Apps via Insecure Preload](https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html)
+- ["Hacking Mattermost #2: Year of Node.js on the Desktop", Andreas Lindh](http://haxx.ml/post/145508617751/hacking-mattermost-2-year-of-nodejs-on-the?is_related_post=1)
+- ["Subverting Electron Apps via Insecure Preload", Doyensec Blog](https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html)
 - ["CVE-2018-15685 - Electron WebPreferences Remote Code Execution Finding", Matt Austin](https://www.contrastsecurity.com/security-influencers/cve-2018-15685), [PoC](https://github.com/matt-/CVE-2018-15685)
 - ["Remote Code Execution in Rocket.Chat Desktop", Matt Austin](https://hackerone.com/reports/276031)
 - ["Remote Code Execution in Wordpress Desktop", Matt Austin](https://hackerone.com/reports/301458)
