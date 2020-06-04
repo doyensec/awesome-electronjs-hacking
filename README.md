@@ -8,39 +8,63 @@ This list aims to cover Electron.js security related topics.
 
 **Feel free to contribute** by opening a PR if you think something is missing to this list!
 
-## Presentation Slides
+## Presentations
 
-- [Electronegativity - A Study of Electron Security, Luca Carettoni, BlackHat USA 2017](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security.pdf)
-- [Preloading Insecurity In Your Electron, Luca Carettoni, BlackHat Asia 2019](https://doyensec.com/resources/Asia-19-Carettoni-Preloading-Insecurity-In-Your-Electron.pdf)
-- [Democratizing Electron.js Security, Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf)
-
-## Videos
-
-- [Electronegativity - A Study Of Electron Security, Luca Carettoni, BlackHat USA 2017](https://www.youtube.com/watch?v=oJWsBHlt0ZM)
-- [Democratizing Security, Luca Carettoni, CovalenceConf 2020](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
+- [Electronegativity - A Study of Electron Security, Luca Carettoni, BlackHat USA 2017](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security.pdf) & [video](https://www.youtube.com/watch?v=oJWsBHlt0ZM)
+- [Preloading Insecurity In Your Electron, Luca Carettoni, BlackHat Asia 2019](https://doyensec.com/resources/Asia-19-Carettoni-Preloading-Insecurity-In-Your-Electron.pdf) & [video](https://www.youtube.com/watch?v=Hw6JShd8Jxw)
+- ["MarkDoom: How I Hacked Every Major IDE in 2 Weeks", Matt Austin, APPSEC Cali 2018](https://docs.google.com/presentation/d/1wQM4fhjCJ9r3DQ-c98XJFkrd83odM94FaJPqstTR68c)
+- [Democratizing Electron.js Security, Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf) & [video](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
 - [Juho Nurminen – app setAsDefaultRCE Client: Electron, scheme handlers and stealthy security patches](https://www.youtube.com/watch?v=A9qJHqWYl_4)
 - [Remote Code Execution on Electron Applications, PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
-- [Preloading Insecurity In Your Electron, BlackHat Asia 2019](https://www.youtube.com/watch?v=Hw6JShd8Jxw)
+- ["Full Steam Ahead: Remotely Executing Code in Modern Desktop Application Architectures", Thomas Shadwell, INFILTRATE 2019](https://vimeo.com/335206831)
+- ["MarkDoom: How I Hacked Every Major IDE in 2 Weeks", Matt Austin, APPSEC Cali 2018](https://www.youtube.com/watch?v=a-YnG3Mx-Tg)
+- ["Building a secure web browser in Electron", Yan @bcrypt, Electron Meetup 2/2018](https://www.youtube.com/watch?v=Qirdy1TP1Rw)
+- ["Electron: Abusing the lack of context isolation", Masato Kinugawa, CureCon 2018](https://speakerdeck.com/masatokinugawa/electron-abusing-the-lack-of-context-isolation-curecon-en)
+- ["Only An Electron Away From Code Execution", Silvia Väli, Hack.lu 2018](https://www.youtube.com/watch?v=kvi6XX71VXM)
 
 ## Open-Source Tools
 
-- Electronegativity, [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf)
+- Electronegativity, a static code analysis tool to find vulnerabilities in Electron-based applications [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf)
+- [Devtron](https://www.electronjs.org/devtron), an Electron DevTools extension
+- [Fiddle](https://github.com/electron/fiddle), to quickly create and play with small Electron experiments across different Electron versions 
 
 ## Papers
 
-- [Electron Security Checklist, Luca Carettoni, 2017](https://doyensec.com/resources/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
+- ["Electron Security Checklist", Luca Carettoni, 2017](https://doyensec.com/resources/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
+- ["Analysis of Electron-based Applications to Identify Xss Flaws Escalating to Code Execution in Open-source Applications", Silvia Väli](https://digikogu.taltech.ee/en/Download/01ec8ff7-fff8-4a83-86a4-4048178a3ed5)
 
-## Vulnerabilities and Exploits
+## Vulnerabilities Write-Ups and Exploits
+
+- [Hacking Mattermost #2: Year of Node.js on the Desktop](http://haxx.ml/post/145508617751/hacking-mattermost-2-year-of-nodejs-on-the?is_related_post=1)
+- [Subverting Electron Apps via Insecure Preload](https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html)
+- ["CVE-2018-15685 - Electron WebPreferences Remote Code Execution Finding", Matt Austin](https://www.contrastsecurity.com/security-influencers/cve-2018-15685), [PoC](https://github.com/matt-/CVE-2018-15685)
+- ["Remote Code Execution in Rocket.Chat Desktop", Matt Austin](https://hackerone.com/reports/276031)
+- ["Remote Code Execution in Wordpress Desktop", Matt Austin](https://hackerone.com/reports/301458)
+- ["URL Spoof / Brave Shield Bypass", Matt Austin](https://hackerone.com/reports/255991)
+- ["\[Simplenote for Windows\] Client RCE via External JavaScript Inclusion leveraging Electron", @ysx](https://hackerone.com/reports/291539)
+- ["XSS in Steam react chat client", @zemnmez](https://hackerone.com/reports/409850)
+- ["Security bug in Google Hangouts Chat desktop application – how to make Open Redirect great again", Michał Bentkowski](https://research.securitum.com/security-bug-in-google-hangouts-chat-desktop-application-how-to-make-open-redirect-great-again/)
+- ["Critical Security Flaw Found in WhatsApp Desktop Platform Allowing Cybercriminals Read From The File System Access", Gal Weizman](https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/)
+- ["signal-desktop HTML tag injection"](https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection/) and ["signal-desktop HTML tag injection variant 2"](https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection-variant-2/), Ivan A. Barrera Oro
+- ["Chromium vulnerability affecting Mist Browser Beta", @evertonfraga, Mist Team](https://blog.ethereum.org/2017/12/15/security-alert-chromium-vulnerability-affecting-mist-browser-beta/)
+- ["Exploiting Electron RCE in Exodus wallet", Tomas Lažauninkas](https://hackernoon.com/exploiting-electron-rce-in-exodus-wallet-d9e6db13c374)
+- ["Signature Validation Bypass Leading to RCE In Electron-Updater", Doyensec Blog](https://blog.doyensec.com/2020/02/24/electron-updater-update-signature-bypass.html)
+- ["Electron Windows Protocol Handler MITM/RCE (bypass for CVE-2018-1000006 fix)", Doyensec Blog](https://blog.doyensec.com/2018/05/24/electron-win-protocol-handler-bug-bypass.html)
+
 
 ## Blog Posts and Articles
 
-- [Electron's Official Guide on "Security, Native Capabilities, and Your Responsibility"](https://www.electronjs.org/docs/tutorial/security)
-- [Instrumenting Electron Apps for Security Testing](https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html)
-- [Modern Alchemy: Turning XSS into RCE](https://blog.doyensec.com/2017/08/03/electron-framework-security.html)
-- [Subverting Electron Apps via Insecure Preload](https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html)
-- [Reasonably Secure Electron, Joe DeMesy](https://know.bishopfox.com/research/reasonably-secure-electron) & [code](https://github.com/moloch--/reasonably-secure-electron)
+- ["Security, Native Capabilities, and Your Responsibility", Electron's Documentation](https://www.electronjs.org/docs/tutorial/security)
+- ["Instrumenting Electron Apps for Security Testing", Doyensec Blog](https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html)
+- ["Modern Alchemy: Turning XSS into RCE", Doyensec Blog](https://blog.doyensec.com/2017/08/03/electron-framework-security.html)
+- ["Reasonably Secure Electron", Joe DeMesy](https://know.bishopfox.com/research/reasonably-secure-electron) & [code](https://github.com/moloch--/reasonably-secure-electron)
+- ["As It Stands - Electron Security"](http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html) and ["An update on Electron Security"](http://blog.scottlogic.com/2016/06/01/An-update-on-Electron-Security.html) by Dean Kerr
+- ["Top 5 Day Two: Electron Boogaloo - A case for technodiversity",  Vincent Lee](https://www.thezdi.com/blog/2018/12/18/top-5-day-two-electron-boogaloo-a-case-for-technodiversity)
 
 ## Books
+
+- ["Cross-Platform Desktop Applications Using Node, Electron, and NW.js", Paul B. Jensen](https://www.manning.com/books/cross-platform-desktop-applications)
+- ["Electron in Action", Steve Kinney](https://www.manning.com/books/electron-in-action]
 
 ## Related lists
 
