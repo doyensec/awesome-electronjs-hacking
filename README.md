@@ -2,7 +2,11 @@
 
 This list aims to cover Electron.js security related topics.
 
-Feel free to contribute by opening a PR if you think something is missing to the list!
+<p align="center">
+	<img src="https://github.com/doyensec/electronegativity/raw/master/docs/resources/img/electron-logo.png">
+</p>
+
+**Feel free to contribute** by opening a PR if you think something is missing to this list!
 
 ## Presentation Slides
 
@@ -18,7 +22,7 @@ Feel free to contribute by opening a PR if you think something is missing to the
 - [Remote Code Execution on Electron Applications, PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
 - [Preloading Insecurity In Your Electron, BlackHat Asia 2019](https://www.youtube.com/watch?v=Hw6JShd8Jxw)
 
-## Open-source tools
+## Open-Source Tools
 
 - Electronegativity, [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf)
 
@@ -26,13 +30,17 @@ Feel free to contribute by opening a PR if you think something is missing to the
 
 - [Electron Security Checklist, Luca Carettoni, 2017](https://doyensec.com/resources/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
 
-## Notable blog posts and articles
+## Vulnerabilities and Exploits
+
+## Blog Posts and Articles
 
 - [Electron's Official Guide on "Security, Native Capabilities, and Your Responsibility"](https://www.electronjs.org/docs/tutorial/security)
 - [Instrumenting Electron Apps for Security Testing](https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html)
 - [Modern Alchemy: Turning XSS into RCE](https://blog.doyensec.com/2017/08/03/electron-framework-security.html)
 - [Subverting Electron Apps via Insecure Preload](https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html)
 - [Reasonably Secure Electron, Joe DeMesy](https://know.bishopfox.com/research/reasonably-secure-electron) & [code](https://github.com/moloch--/reasonably-secure-electron)
+
+## Books
 
 ## Related lists
 
