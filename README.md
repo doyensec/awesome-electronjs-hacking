@@ -63,7 +63,7 @@ This list aims to cover Electron.js security related topics.
 ## Books
 
 - ["Cross-Platform Desktop Applications Using Node, Electron, and NW.js", Paul B. Jensen](https://www.manning.com/books/cross-platform-desktop-applications)
-- ["Electron in Action", Steve Kinney"](https://www.manning.com/books/electron-in-action]
+- ["Electron in Action", Steve Kinney](https://www.manning.com/books/electron-in-action)
 
 ## Related lists
 
