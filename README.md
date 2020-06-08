@@ -30,7 +30,7 @@ This list aims to cover Electron.js security related topics.
 ## Papers
 
 - ["Electron Security Checklist", Luca Carettoni, 2017](https://doyensec.com/resources/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
-- ["Analysis of Electron-based Applications to Identify Xss Flaws Escalating to Code Execution in Open-source Applications", Silvia Väli](https://digikogu.taltech.ee/en/Download/01ec8ff7-fff8-4a83-86a4-4048178a3ed5)
+- ["Analysis of Electron-based Applications to Identify Xss Flaws Escalating to Code Execution in Open-source Applications", Silvia Väli, 2017](https://digikogu.taltech.ee/en/Download/01ec8ff7-fff8-4a83-86a4-4048178a3ed5)
 
 ## Vulnerabilities Write-Ups and Exploits
 
@@ -49,16 +49,15 @@ This list aims to cover Electron.js security related topics.
 - ["Exploiting Electron RCE in Exodus wallet", Tomas Lažauninkas](https://hackernoon.com/exploiting-electron-rce-in-exodus-wallet-d9e6db13c374)
 - ["Signature Validation Bypass Leading to RCE In Electron-Updater", Doyensec Blog](https://blog.doyensec.com/2020/02/24/electron-updater-update-signature-bypass.html)
 - ["Electron Windows Protocol Handler MITM/RCE (bypass for CVE-2018-1000006 fix)", Doyensec Blog](https://blog.doyensec.com/2018/05/24/electron-win-protocol-handler-bug-bypass.html)
-
+- ["Modern Alchemy: Turning XSS into RCE", Doyensec Blog](https://blog.doyensec.com/2017/08/03/electron-framework-security.html)
 
 ## Blog Posts and Articles
 
 - ["Security, Native Capabilities, and Your Responsibility", Electron's Documentation](https://www.electronjs.org/docs/tutorial/security)
 - ["Instrumenting Electron Apps for Security Testing", Doyensec Blog](https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html)
-- ["Modern Alchemy: Turning XSS into RCE", Doyensec Blog](https://blog.doyensec.com/2017/08/03/electron-framework-security.html)
 - ["Reasonably Secure Electron", Joe DeMesy](https://know.bishopfox.com/research/reasonably-secure-electron) & [code](https://github.com/moloch--/reasonably-secure-electron)
-- ["As It Stands - Electron Security"](http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html) and ["An update on Electron Security"](http://blog.scottlogic.com/2016/06/01/An-update-on-Electron-Security.html) by Dean Kerr
 - ["Top 5 Day Two: Electron Boogaloo - A case for technodiversity",  Vincent Lee](https://www.thezdi.com/blog/2018/12/18/top-5-day-two-electron-boogaloo-a-case-for-technodiversity)
+- ["As It Stands - Electron Security"](http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html) and ["An update on Electron Security"](http://blog.scottlogic.com/2016/06/01/An-update-on-Electron-Security.html) by Dean Kerr
 
 ## Books
 
