@@ -67,4 +67,4 @@ This list aims to cover Electron.js security related topics.
 ## Related lists
 
 - [Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security)
-- [Awesome Electron Security](https://github.com/rtckit/awesome-rtc/)
+- [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
