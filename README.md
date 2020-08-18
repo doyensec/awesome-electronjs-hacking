@@ -34,6 +34,7 @@ This list aims to cover Electron.js security related topics.
 
 ## Vulnerabilities Write-Ups and Exploits
 
+- ["Rocket.Chat Cross-Site Scripting leading to Remote Code Execution CVE-2020-15926", Pawel Wylecial](https://blog.redteam.pl/2020/08/rocket-chat-xss-rce-cve-2020-15926.html)
 - ["Hacking Mattermost #2: Year of Node.js on the Desktop", Andreas Lindh](http://haxx.ml/post/145508617751/hacking-mattermost-2-year-of-nodejs-on-the?is_related_post=1)
 - ["Subverting Electron Apps via Insecure Preload", Doyensec Blog](https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html)
 - ["CVE-2018-15685 - Electron WebPreferences Remote Code Execution Finding", Matt Austin](https://www.contrastsecurity.com/security-influencers/cve-2018-15685), [PoC](https://github.com/matt-/CVE-2018-15685)
