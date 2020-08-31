@@ -55,6 +55,7 @@ This list aims to cover Electron.js security related topics.
 - ["Open Sesame: Escalating Open Redirect to RCE with Electron Code Review", Eugene Lim](https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review)
 - ["From Markdown to RCE in Atom", Lukas Reschke](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom)
 - ["Visual Studio Code silently fixed a remote code execution vulnerability", CodeColorist](https://blog.chichou.me/2018/03/16/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability/)
+- ["Remote Code Execution in Slack desktop apps + bonus", @oskars](https://hackerone.com/reports/783877)
 
 ## Blog Posts and Articles
 
