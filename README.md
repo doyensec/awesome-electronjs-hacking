@@ -56,6 +56,7 @@ This list aims to cover Electron.js security related topics.
 - ["From Markdown to RCE in Atom", Lukas Reschke](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom)
 - ["Visual Studio Code silently fixed a remote code execution vulnerability", CodeColorist](https://blog.chichou.me/2018/03/16/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability/)
 - ["Remote Code Execution in Slack desktop apps + bonus", @oskars](https://hackerone.com/reports/783877)
+- ["RCE in Jitsi Meet Electron prior to 2.3.0 due to insecure use of shell.openExternal() (CVE-2020-25019)", Benjamin Altpeter](https://benjamin-altpeter.de/jitsi-meet-electron-rce-shell-openexternal/)
 
 ## Blog Posts and Articles
 
