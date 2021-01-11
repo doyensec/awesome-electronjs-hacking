@@ -45,7 +45,7 @@ This list aims to cover Electron.js security related topics.
 - ["XSS in Steam react chat client", @zemnmez](https://hackerone.com/reports/409850)
 - ["Security bug in Google Hangouts Chat desktop application – how to make Open Redirect great again", Michał Bentkowski](https://research.securitum.com/security-bug-in-google-hangouts-chat-desktop-application-how-to-make-open-redirect-great-again/)
 - ["Critical Security Flaw Found in WhatsApp Desktop Platform Allowing Cybercriminals Read From The File System Access", Gal Weizman](https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/)
-- ["signal-desktop HTML tag injection"](https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection/) and ["signal-desktop HTML tag injection variant 2"](https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection-variant-2/), Ivan A. Barrera Oro
+- ["signal-desktop HTML tag injection"](https://web.archive.org/web/20200427095259/https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection/) and ["signal-desktop HTML tag injection variant 2"](https://web.archive.org/web/20190517134857/https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection-variant-2/), Ivan A. Barrera Oro
 - ["Chromium vulnerability affecting Mist Browser Beta", @evertonfraga, Mist Team](https://blog.ethereum.org/2017/12/15/security-alert-chromium-vulnerability-affecting-mist-browser-beta/)
 - ["Exploiting Electron RCE in Exodus wallet", Tomas Lažauninkas](https://hackernoon.com/exploiting-electron-rce-in-exodus-wallet-d9e6db13c374)
 - ["Signature Validation Bypass Leading to RCE In Electron-Updater", Doyensec Blog](https://blog.doyensec.com/2020/02/24/electron-updater-update-signature-bypass.html)
@@ -66,7 +66,7 @@ This list aims to cover Electron.js security related topics.
 - ["Reasonably Secure Electron", Joe DeMesy](https://know.bishopfox.com/research/reasonably-secure-electron) & [code](https://github.com/moloch--/reasonably-secure-electron)
 - ["Top 5 Day Two: Electron Boogaloo - A case for technodiversity",  Vincent Lee](https://www.thezdi.com/blog/2018/12/18/top-5-day-two-electron-boogaloo-a-case-for-technodiversity)
 - ["As It Stands - Electron Security"](http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html) and ["An update on Electron Security"](http://blog.scottlogic.com/2016/06/01/An-update-on-Electron-Security.html) by Dean Kerr
-- ["Exploiting Electron Applications using Debug Feature", Esecurity Lab](https://evren.ninja/en/post/exploiting-electron-applications-/)
+- ["Exploiting Electron Applications using Debug Feature", Esecurity Lab](https://evren.ninja/blog/en/post/exploiting-electron-applications-/)
 - ["Why Electron apps can’t store your secrets confidentially: \` — inspect\`option", Vladimir Metnew](https://medium.com/@metnew/why-electron-apps-cant-store-your-secrets-confidentially-inspect-option-a49950d6d51f)
 - ["Abusing Electron apps to bypass macOS' security controls", Wojciech Reguła](https://wojciechregula.blog/post/abusing-electron-apps-to-bypass-macos-security-controls/)
 
