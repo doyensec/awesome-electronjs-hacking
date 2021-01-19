@@ -3,7 +3,7 @@
 This list aims to cover Electron.js security related topics.
 
 <p align="center">
-	<img src="https://github.com/doyensec/electronegativity/raw/master/docs/resources/img/electron-logo.png">
+    <img src="https://github.com/doyensec/electronegativity/raw/master/docs/resources/img/electron-logo.png">
 </p>
 
 **Feel free to contribute** by opening a PR if you think something is missing to this list!
@@ -20,6 +20,7 @@ This list aims to cover Electron.js security related topics.
 - ["Full Steam Ahead: Remotely Executing Code in Modern Desktop Application Architectures", Thomas Shadwell, INFILTRATE 2019](https://vimeo.com/335206831)
 - ["Democratizing Electron.js Security", Luca Carettoni, Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf) & [video](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
 - ["Remote Code Execution on Electron Applications", PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
+- [Shifting left for Electron.js security", Ksenia Peguero, Midwinter Night's Con 2020](https://www.youtube.com/watch?v=Fiqj37HiyAY)
 
 ## Open-Source Tools
 
@@ -58,6 +59,7 @@ This list aims to cover Electron.js security related topics.
 - ["Remote Code Execution in Slack desktop apps + bonus", @oskars](https://hackerone.com/reports/783877)
 - ["RCE in Jitsi Meet Electron prior to 2.3.0 due to insecure use of shell.openExternal() (CVE-2020-25019)", Benjamin Altpeter](https://benjamin-altpeter.de/jitsi-meet-electron-rce-shell-openexternal/)
 - ["Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application", Parsia Hakimian](https://hackerone.com/reports/873614)
+- ["Discord Desktop App RCE", Masato Kinugawa](https://mksben.l0.cm/2020/10/discord-desktop-rce.html)
 
 ## Blog Posts and Articles
 
