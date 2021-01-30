@@ -32,6 +32,8 @@ This list aims to cover Electron.js security related topics.
 
 - ["Electron Security Checklist", Luca Carettoni, 2017](https://doyensec.com/resources/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
 - ["Analysis of Electron-based Applications to Identify Xss Flaws Escalating to Code Execution in Open-source Applications", Silvia Väli, 2017](https://digikogu.taltech.ee/en/Download/01ec8ff7-fff8-4a83-86a4-4048178a3ed5)
+- ["Pentest-Report Ethereum Mist", Cure53, 2017](https://cure53.de/pentest-report_mist.pdf)
+- ["Pentest-Report Frame Electron App", Cure53, 2018](https://cure53.de/pentest-report_frame.pdf)
 
 ## Vulnerabilities Write-Ups and Exploits
 
@@ -59,9 +61,11 @@ This list aims to cover Electron.js security related topics.
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
 - ["RCE in Jitsi Meet Electron prior to 2.3.0 due to insecure use of shell.openExternal() (CVE-2020-25019)", Benjamin Altpeter](https://benjamin-altpeter.de/jitsi-meet-electron-rce-shell-openexternal/)
+- ["Brave Arbitrary IPC Messages via Prototype Pollution in Function.prototype.call",  Masato Kinugawa](https://hackerone.com/reports/187542), ["via Prototype Pollution in Function.prototype.apply",  Masato Kinugawa](https://hackerone.com/reports/188086) and ["via Prototype Pollution in Array.prototype.push",  Masato Kinugawa](https://hackerone.com/reports/188561)
 - ["Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application", Parsia Hakimian](https://hackerone.com/reports/873614)
 - ["Discord Desktop App RCE", Masato Kinugawa](https://mksben.l0.cm/2020/10/discord-desktop-rce.html)
 - ["Vulnerability in Electron-based Application: Unintentionally Giving Malicious Code Room to Run", CertiK](https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution)
+- ["Joplin ElectronJS based Client: from XSS to RCE", Jaroslav Lobacevski](https://blog.devsecurity.eu/en/blog/joplin-electron-rce)
 
 ## Blog Posts and Articles
 
