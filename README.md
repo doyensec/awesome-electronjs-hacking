@@ -67,6 +67,7 @@ This list aims to cover Electron.js security related topics.
 - ["Discord Desktop App RCE", Masato Kinugawa](https://mksben.l0.cm/2020/10/discord-desktop-rce.html)
 - ["Vulnerability in Electron-based Application: Unintentionally Giving Malicious Code Room to Run", CertiK](https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution)
 - ["Joplin ElectronJS based Client: from XSS to RCE", Jaroslav Lobacevski](https://blog.devsecurity.eu/en/blog/joplin-electron-rce)
+- ["Facebook Messenger Desktop App Arbitrary File Read", Renwa](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d)
 
 ## Blog Posts and Articles
 
