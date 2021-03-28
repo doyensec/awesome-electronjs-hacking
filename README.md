@@ -16,7 +16,7 @@ This list aims to cover Electron.js security related topics.
 - ["Electron: Abusing the lack of context isolation", Masato Kinugawa, CureCon 2018](https://speakerdeck.com/masatokinugawa/electron-abusing-the-lack-of-context-isolation-curecon-en)
 - ["Only An Electron Away From Code Execution", Silvia Väli, Hack.lu 2018](https://www.youtube.com/watch?v=kvi6XX71VXM)
 - ["Preloading Insecurity In Your Electron", Luca Carettoni, BlackHat Asia 2019](https://doyensec.com/resources/Asia-19-Carettoni-Preloading-Insecurity-In-Your-Electron.pdf) & [video](https://www.youtube.com/watch?v=Hw6JShd8Jxw)
-- ["app setAsDefaultRCE Client: Electron, scheme handlers and stealthy security patches", Juho Nurminen, ZeroNights 2019](https://zeronights.ru/wp-content/themes/zeronights-2019/public/materials/1_ZN2019_Juho_Nurminen.pdf) and [video](https://www.youtube.com/watch?v=A9qJHqWYl_4)
+- ["app setAsDefaultRCE Client: Electron, scheme handlers and stealthy security patches", Juho Nurminen, ZeroNights 2019](https://2019.zeronights.ru/wp-content/themes/zeronights-2019/public/materials/1_ZN2019_Juho_Nurminen.pdf) and [video](https://www.youtube.com/watch?v=A9qJHqWYl_4)
 - ["Full Steam Ahead: Remotely Executing Code in Modern Desktop Application Architectures", Thomas Shadwell, INFILTRATE 2019](https://vimeo.com/335206831)
 - ["Democratizing Electron.js Security", Luca Carettoni, Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf) & [video](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
 - ["Remote Code Execution on Electron Applications", PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
