@@ -61,6 +61,7 @@ This list aims to cover Electron.js security related topics.
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
 - ["RCE in Jitsi Meet Electron prior to 2.3.0 due to insecure use of shell.openExternal() (CVE-2020-25019)", Benjamin Altpeter](https://benjamin-altpeter.de/jitsi-meet-electron-rce-shell-openexternal/)
+- ["Insecure use of shell.openExternal() in Wire Desktop", Benjamin Altpeter](https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm)
 - ["Jitsi Meet Electron – Arbitrary Client Remote Code Execution (CVE-2020-27162)", Robert Wessen](https://research.nccgroup.com/2020/10/23/technical-advisory-jitsi-meet-electron-arbitrary-client-remote-code-execution-cve-2020-27162/) and ["Jitsi Meet Electron – Limited Certificate Validation Bypass (CVE-2020-27161)", Robert Wessen](https://research.nccgroup.com/2020/10/23/technical-advisory-jitsi-meet-electron-limited-certificate-validation-bypass-cve-2020-27161/)
 - ["Brave Arbitrary IPC Messages via Prototype Pollution in Function.prototype.call",  Masato Kinugawa](https://hackerone.com/reports/187542), ["via Prototype Pollution in Function.prototype.apply",  Masato Kinugawa](https://hackerone.com/reports/188086) and ["via Prototype Pollution in Array.prototype.push",  Masato Kinugawa](https://hackerone.com/reports/188561)
 - ["Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application", Parsia Hakimian](https://hackerone.com/reports/873614)
@@ -79,6 +80,7 @@ This list aims to cover Electron.js security related topics.
 - ["Why Electron apps can’t store your secrets confidentially: \` — inspect\`option", Vladimir Metnew](https://medium.com/@metnew/why-electron-apps-cant-store-your-secrets-confidentially-inspect-option-a49950d6d51f)
 - ["The App Sandbox", Charlie Hess](https://slack.engineering/the-app-sandbox/)
 - ["Abusing Electron apps to bypass macOS' security controls", Wojciech Reguła](https://wojciechregula.blog/post/abusing-electron-apps-to-bypass-macos-security-controls/)
+- ["The dangers of Electron's shell.openExternal() — many paths to remote code execution", Benjamin Altpeter](https://benjamin-altpeter.de/shell-openexternal-dangers/)
 
 ## Books
 
