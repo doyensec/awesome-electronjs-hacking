@@ -34,6 +34,7 @@ This list aims to cover Electron.js security related topics.
 - ["Analysis of Electron-based Applications to Identify Xss Flaws Escalating to Code Execution in Open-source Applications", Silvia Väli, 2017](https://digikogu.taltech.ee/en/Download/01ec8ff7-fff8-4a83-86a4-4048178a3ed5)
 - ["Pentest-Report Ethereum Mist", Cure53, 2017](https://cure53.de/pentest-report_mist.pdf)
 - ["Pentest-Report Frame Electron App", Cure53, 2018](https://cure53.de/pentest-report_frame.pdf)
+- ["Electrolint and Security of Electron Applications", Ksenia Peguero, 2021](https://www.sciencedirect.com/science/article/pii/S2667295221000040)
 
 ## Vulnerabilities Write-Ups and Exploits
 
@@ -69,6 +70,9 @@ This list aims to cover Electron.js security related topics.
 - ["Vulnerability in Electron-based Application: Unintentionally Giving Malicious Code Room to Run", CertiK](https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution)
 - ["Joplin ElectronJS based Client: from XSS to RCE", Jaroslav Lobacevski](https://blog.devsecurity.eu/en/blog/joplin-electron-rce)
 - ["Facebook Messenger Desktop App Arbitrary File Read", Renwa](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d)
+- ["RCE in Mattermost Desktop earlier than 4.2.0", Nathan Lowe](https://dev.to/nlowe/rce-in-mattermost-desktop-earlier-than-420-5aef)
+- ["GitHub Desktop RCE (OSX)", André Baptista](https://pwning.re/2018/12/04/github-desktop-rce/)
+- ["CVE-2020–16608", Sourov Ghosh](https://sghosh2402.medium.com/cve-2020-16608-8cdad9f4d9b4)
 
 ## Blog Posts and Articles
 
