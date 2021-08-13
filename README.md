@@ -59,6 +59,7 @@ This list aims to cover Electron.js security related topics.
 - ["Open Sesame: Escalating Open Redirect to RCE with Electron Code Review", Eugene Lim](https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review)
 - ["From Markdown to RCE in Atom", Lukas Reschke](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom)
 - ["Visual Studio Code silently fixed a remote code execution vulnerability", CodeColorist](https://blog.chichou.me/2018/03/16/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability/)
+- ["OVE-20210809-0001 Visual Studio Code .ipynb Jupyter Notebook XSS (Arbitrary File Read)", Justin Steven](https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md)
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
 - ["RCE in Jitsi Meet Electron prior to 2.3.0 due to insecure use of shell.openExternal() (CVE-2020-25019)", Benjamin Altpeter](https://benjamin-altpeter.de/jitsi-meet-electron-rce-shell-openexternal/)
