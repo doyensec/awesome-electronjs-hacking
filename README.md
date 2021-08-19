@@ -20,7 +20,8 @@ This list aims to cover Electron.js security related topics.
 - ["Full Steam Ahead: Remotely Executing Code in Modern Desktop Application Architectures", Thomas Shadwell, INFILTRATE 2019](https://vimeo.com/335206831)
 - ["Democratizing Electron.js Security", Luca Carettoni, Covalence 2020 SF](https://doyensec.com/resources/Covalence-2020-Carettoni-DemocratizingElectronSecurity.pdf) & [video](https://www.youtube.com/watch?v=N2GGWz-Pkeg)
 - ["Remote Code Execution on Electron Applications", PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
-- [Shifting left for Electron.js security", Ksenia Peguero, Midwinter Night's Con 2020](https://www.youtube.com/watch?v=Fiqj37HiyAY)
+- ["Shifting left for Electron.js security", Ksenia Peguero, Midwinter Night's Con 2020](https://www.youtube.com/watch?v=Fiqj37HiyAY)
+- ["How to harden your Electron app", Mitchell Cohen, NorthSec 2021](https://youtu.be/_P6qI4ahBVk?t=5111)
 
 ## Open-Source Tools
 
@@ -62,6 +63,7 @@ This list aims to cover Electron.js security related topics.
 - ["OVE-20210809-0001 Visual Studio Code .ipynb Jupyter Notebook XSS (Arbitrary File Read)", Justin Steven](https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md)
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
+- ["Dependency Confusion Vulnerability in Microsoft Teams", Matt Austin](https://www.contrastsecurity.com/security-influencers/contrast-labs-reveals-dependency-confusion-vulnerability-in-microsoft-teams)
 - ["RCE in Jitsi Meet Electron prior to 2.3.0 due to insecure use of shell.openExternal() (CVE-2020-25019)", Benjamin Altpeter](https://benjamin-altpeter.de/jitsi-meet-electron-rce-shell-openexternal/)
 - ["Insecure use of shell.openExternal() in Wire Desktop", Benjamin Altpeter](https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm)
 - ["Jitsi Meet Electron – Arbitrary Client Remote Code Execution (CVE-2020-27162)", Robert Wessen](https://research.nccgroup.com/2020/10/23/technical-advisory-jitsi-meet-electron-arbitrary-client-remote-code-execution-cve-2020-27162/) and ["Jitsi Meet Electron – Limited Certificate Validation Bypass (CVE-2020-27161)", Robert Wessen](https://research.nccgroup.com/2020/10/23/technical-advisory-jitsi-meet-electron-limited-certificate-validation-bypass-cve-2020-27161/)
