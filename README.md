@@ -77,6 +77,7 @@ This list aims to cover Electron.js security related topics.
 - ["RCE in Mattermost Desktop earlier than 4.2.0", Nathan Lowe](https://dev.to/nlowe/rce-in-mattermost-desktop-earlier-than-420-5aef)
 - ["GitHub Desktop RCE (OSX)", André Baptista](https://pwning.re/2018/12/04/github-desktop-rce/)
 - ["CVE-2020–16608", Sourov Ghosh](https://sghosh2402.medium.com/cve-2020-16608-8cdad9f4d9b4)
+- ["HEY Desktop RCE Chain", Doyensec Team](https://doyensec.com/resources/Doyensec_Basecamp_HEY_PlatformTesting_Q32020_SAS.pdf)
 
 ## Blog Posts and Articles
 
