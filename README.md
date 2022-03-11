@@ -69,6 +69,7 @@ This list aims to cover Electron.js security related topics.
 - ["Insecure use of shell.openExternal() in Wire Desktop", Benjamin Altpeter](https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm)
 - ["Jitsi Meet Electron – Arbitrary Client Remote Code Execution (CVE-2020-27162)", Robert Wessen](https://research.nccgroup.com/2020/10/23/technical-advisory-jitsi-meet-electron-arbitrary-client-remote-code-execution-cve-2020-27162/) and ["Jitsi Meet Electron – Limited Certificate Validation Bypass (CVE-2020-27161)", Robert Wessen](https://research.nccgroup.com/2020/10/23/technical-advisory-jitsi-meet-electron-limited-certificate-validation-bypass-cve-2020-27161/)
 - ["Brave Arbitrary IPC Messages via Prototype Pollution in Function.prototype.call",  Masato Kinugawa](https://hackerone.com/reports/187542), ["via Prototype Pollution in Function.prototype.apply",  Masato Kinugawa](https://hackerone.com/reports/188086) and ["via Prototype Pollution in Array.prototype.push",  Masato Kinugawa](https://hackerone.com/reports/188561)
+- ["Prototype Pollution Vulnerabilities in Electron Apps", @s1r1u5](https://github.com/msrkp/electron-research)
 - ["Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application", Parsia Hakimian](https://hackerone.com/reports/873614)
 - ["Discord Desktop App RCE", Masato Kinugawa](https://mksben.l0.cm/2020/10/discord-desktop-rce.html)
 - ["Vulnerability in Electron-based Application: Unintentionally Giving Malicious Code Room to Run", CertiK](https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution)
@@ -76,6 +77,7 @@ This list aims to cover Electron.js security related topics.
 - ["Facebook Messenger Desktop App Arbitrary File Read", Renwa](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d)
 - ["RCE in Mattermost Desktop earlier than 4.2.0", Nathan Lowe](https://dev.to/nlowe/rce-in-mattermost-desktop-earlier-than-420-5aef)
 - ["GitHub Desktop RCE (OSX)", André Baptista](https://pwning.re/2018/12/04/github-desktop-rce/)
+- ["RCE in GitHub Desktop < 2.9.4", Vladimir Metnew](https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3)
 - ["CVE-2020–16608", Sourov Ghosh](https://sghosh2402.medium.com/cve-2020-16608-8cdad9f4d9b4)
 - ["HEY Desktop RCE Chain", Doyensec Team](https://doyensec.com/resources/Doyensec_Basecamp_HEY_PlatformTesting_Q32020_SAS.pdf)
 
