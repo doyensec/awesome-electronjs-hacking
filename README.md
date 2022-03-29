@@ -22,6 +22,7 @@ This list aims to cover Electron.js security related topics.
 - ["Remote Code Execution on Electron Applications", PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
 - ["Shifting left for Electron.js security", Ksenia Peguero, Midwinter Night's Con 2020](https://www.youtube.com/watch?v=Fiqj37HiyAY)
 - ["How to harden your Electron app", Mitchell Cohen, NorthSec 2021](https://youtu.be/_P6qI4ahBVk?t=5111)
+- [Hacking ELECTRON: JavaScript Desktop Applications w/ 7aSecurity - John Hammond](https://www.youtube.com/watch?v=P8QvSjL8F9w)
 
 ## Open-Source Tools
 
@@ -97,6 +98,7 @@ This list aims to cover Electron.js security related topics.
 
 - ["Cross-Platform Desktop Applications Using Node, Electron, and NW.js", Paul B. Jensen](https://www.manning.com/books/cross-platform-desktop-applications)
 - ["Electron in Action", Steve Kinney](https://www.manning.com/books/electron-in-action)
+
 
 ## Related lists
 
