@@ -81,6 +81,7 @@ This list aims to cover Electron.js security related topics.
 - ["RCE in GitHub Desktop < 2.9.4", Vladimir Metnew](https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3)
 - ["CVE-2020–16608", Sourov Ghosh](https://sghosh2402.medium.com/cve-2020-16608-8cdad9f4d9b4)
 - ["HEY Desktop RCE Chain", Doyensec Team](https://doyensec.com/resources/Doyensec_Basecamp_HEY_PlatformTesting_Q32020_SAS.pdf)
+- ["CVE-2018-1000136 - Electron nodeIntegration Bypass", Brendan Scarvell](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2018-1000136-electron-nodeintegration-bypass/)
 
 ## Blog Posts and Articles
 
