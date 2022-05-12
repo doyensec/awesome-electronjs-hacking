@@ -27,7 +27,7 @@ This list aims to cover Electron.js security related topics.
 ## Open-Source Tools
 
 - Electronegativity, a static code analysis tool to find vulnerabilities in Electron-based applications [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf)
-- [Devtron](https://www.electronjs.org/devtron), an Electron DevTools extension
+- [Devtron](https://www.electronjs.org/blog/electron-1-0#devtron), an Electron DevTools extension
 - [Fiddle](https://github.com/electron/fiddle), to quickly create and play with small Electron experiments across different Electron versions 
 
 ## Papers
