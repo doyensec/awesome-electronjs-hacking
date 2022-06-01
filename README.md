@@ -36,6 +36,7 @@ This list aims to cover Electron.js security related topics.
 - ["Analysis of Electron-based Applications to Identify Xss Flaws Escalating to Code Execution in Open-source Applications", Silvia Väli, 2017](https://digikogu.taltech.ee/en/Download/01ec8ff7-fff8-4a83-86a4-4048178a3ed5)
 - ["Pentest-Report Ethereum Mist", Cure53, 2017](https://cure53.de/pentest-report_mist.pdf)
 - ["Pentest-Report Frame Electron App", Cure53, 2018](https://cure53.de/pentest-report_frame.pdf)
+- ["An Analysis of the State of Electron Security in the Wild", Benjamin Altpeter, 2020](https://benjamin-altpeter.de/doc/thesis-electron.pdf)
 - ["Electrolint and Security of Electron Applications", Ksenia Peguero, 2021](https://www.sciencedirect.com/science/article/pii/S2667295221000040)
 
 ## Vulnerabilities Write-Ups and Exploits
