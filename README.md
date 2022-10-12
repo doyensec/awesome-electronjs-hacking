@@ -22,13 +22,19 @@ This list aims to cover Electron.js security related topics.
 - ["Remote Code Execution on Electron Applications", PwnFunction](https://www.youtube.com/watch?v=jkJWA_CWrQs)
 - ["Shifting left for Electron.js security", Ksenia Peguero, Midwinter Night's Con 2020](https://www.youtube.com/watch?v=Fiqj37HiyAY)
 - ["How to harden your Electron app", Mitchell Cohen, NorthSec 2021](https://youtu.be/_P6qI4ahBVk?t=5111)
-- [Hacking ELECTRON: JavaScript Desktop Applications w/ 7aSecurity - John Hammond](https://www.youtube.com/watch?v=P8QvSjL8F9w)
+- ["Hacking ELECTRON: JavaScript Desktop Applications w/ 7aSecurity", John Hammond](https://www.youtube.com/watch?v=P8QvSjL8F9w)
+- ["ElectroVolt - Pwning Popular Desktop apps while uncovering new attack surface on Electron", Mohan Sri Rama Krishna Max Garrett Aaditya Purani William Bowling, BlackHat USA 2022 and Nullcon Goa 2022](https://i.blackhat.com/USA-22/Thursday/US-22-Purani-ElectroVolt-Pwning-Popular-Desktop-Apps.pdf) & [video](https://www.youtube.com/watch?v=J0bZGugLoYk)
 
-## Open-Source Tools
+## Open-Source & Commercial Tools
 
 - Electronegativity, a static code analysis tool to find vulnerabilities in Electron-based applications [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf)
 - [Devtron](https://www.electronjs.org/blog/electron-1-0#devtron), an Electron DevTools extension
 - [Fiddle](https://github.com/electron/fiddle), to quickly create and play with small Electron experiments across different Electron versions 
+- [ElectroNG](https://electro.ng/) Premium SAST tool built after Electronegativity to help  automate  security reviews
+
+**Sponsored Ads**:
+
+![electrong-banner](https://user-images.githubusercontent.com/6027823/195325973-7d4dc32d-b6b9-444f-80f4-a9776115a7f0.png | width=200)
 
 ## Papers
 
@@ -47,6 +53,7 @@ This list aims to cover Electron.js security related topics.
 - ["CVE-2018-15685 - Electron WebPreferences Remote Code Execution Finding", Matt Austin](https://www.contrastsecurity.com/security-influencers/cve-2018-15685), [PoC](https://github.com/matt-/CVE-2018-15685)
 - ["Remote Code Execution in Rocket.Chat Desktop", Matt Austin](https://hackerone.com/reports/276031)
 - ["Rocket.Chat Cross-Site Scripting leading to Remote Code Execution CVE-2020-15926", Pawel Wylecial](https://blog.redteam.pl/2020/08/rocket-chat-xss-rce-cve-2020-15926.html)
+- ["Rocket.Chat Client-side Remote Code Execution", SSD Advisory](https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/)
 - ["Remote Code Execution in Wordpress Desktop", Matt Austin](https://hackerone.com/reports/301458)
 - ["URL Spoof / Brave Shield Bypass", Matt Austin](https://hackerone.com/reports/255991)
 - ["\[Simplenote for Windows\] Client RCE via External JavaScript Inclusion leveraging Electron", @ysx](https://hackerone.com/reports/291539)
@@ -63,6 +70,7 @@ This list aims to cover Electron.js security related topics.
 - ["From Markdown to RCE in Atom", Lukas Reschke](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom)
 - ["Visual Studio Code silently fixed a remote code execution vulnerability", CodeColorist](https://blog.chichou.me/2018/03/16/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability/)
 - ["OVE-20210809-0001 Visual Studio Code .ipynb Jupyter Notebook XSS (Arbitrary File Read)", Justin Steven](https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md)
+- ["Visual Studio Code - Remote Code Execution in Restricted Mode (CVE-2021-43908)", TheGrandPew and s1r1us](https://blog.electrovolt.io/posts/vscode-rce/)
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
 - ["Cross-site scripting (XSS) in Microsoft Teams", Evan Grant](https://www.tenable.com/security/research/tra-2019-54)
@@ -74,6 +82,7 @@ This list aims to cover Electron.js security related topics.
 - ["Prototype Pollution Vulnerabilities in Electron Apps", @s1r1u5](https://github.com/msrkp/electron-research)
 - ["Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application", Parsia Hakimian](https://hackerone.com/reports/873614)
 - ["Discord Desktop App RCE", Masato Kinugawa](https://mksben.l0.cm/2020/10/discord-desktop-rce.html)
+- ["Discord Desktop - Remote Code Execution", s1r1us](https://blog.electrovolt.io/posts/discord-rce/)
 - ["Vulnerability in Electron-based Application: Unintentionally Giving Malicious Code Room to Run", CertiK](https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution)
 - ["Joplin ElectronJS based Client: from XSS to RCE", Jaroslav Lobacevski](https://blog.devsecurity.eu/en/blog/joplin-electron-rce)
 - ["Facebook Messenger Desktop App Arbitrary File Read", Renwa](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d)
@@ -83,6 +92,8 @@ This list aims to cover Electron.js security related topics.
 - ["CVE-2020–16608", Sourov Ghosh](https://sghosh2402.medium.com/cve-2020-16608-8cdad9f4d9b4)
 - ["HEY Desktop RCE Chain", Doyensec Team](https://doyensec.com/resources/Doyensec_Basecamp_HEY_PlatformTesting_Q32020_SAS.pdf)
 - ["CVE-2018-1000136 - Electron nodeIntegration Bypass", Brendan Scarvell](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2018-1000136-electron-nodeintegration-bypass)
+- ["Remote Code Execution on Element Desktop Application using Node Integration in Sub Frames Bypass", s1r1us and TheGrandPew](https://blog.electrovolt.io/posts/element-rce/)
+- ["CVE-2022-29247 - Disable Electron Context Isolation or enable Node Integration in SubFrames", s1r1us](https://hackerone.com/reports/1647287)
 
 ## Blog Posts and Articles
 
@@ -95,6 +106,7 @@ This list aims to cover Electron.js security related topics.
 - ["The App Sandbox", Charlie Hess](https://slack.engineering/the-app-sandbox/)
 - ["Abusing Electron apps to bypass macOS' security controls", Wojciech Reguła](https://wojciechregula.blog/post/abusing-electron-apps-to-bypass-macos-security-controls/)
 - ["The dangers of Electron's shell.openExternal() — many paths to remote code execution", Benjamin Altpeter](https://benjamin-altpeter.de/shell-openexternal-dangers/)
+- ["1-click RCE in Electron Applications", Pavel Shabarkin](https://shabarkin.medium.com/1-click-rce-in-electron-applications-79b52e1fe8b8)
 
 ## Books
 
