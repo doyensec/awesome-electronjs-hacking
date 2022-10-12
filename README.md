@@ -34,7 +34,7 @@ This list aims to cover Electron.js security related topics.
 
 **Sponsored Ads**:
 
-![electrong-banner](https://user-images.githubusercontent.com/6027823/195325973-7d4dc32d-b6b9-444f-80f4-a9776115a7f0.png | width=200)
+![electrong-banner](https://user-images.githubusercontent.com/6027823/195325973-7d4dc32d-b6b9-444f-80f4-a9776115a7f0.png)
 
 ## Papers
 
