@@ -32,9 +32,7 @@ This list aims to cover Electron.js security related topics.
 - [Fiddle](https://github.com/electron/fiddle), to quickly create and play with small Electron experiments across different Electron versions 
 - [ElectroNG](https://electro.ng/) Premium SAST tool built after Electronegativity to help  automate  security reviews
 
-**Sponsored Ads**:
-
-![electrong-banner](https://user-images.githubusercontent.com/6027823/195325973-7d4dc32d-b6b9-444f-80f4-a9776115a7f0.png)
+![electrong-banner-small](https://user-images.githubusercontent.com/6027823/195326803-56a1181c-2ae4-4ba5-81ea-cd8148c81bea.png)
 
 ## Papers
 
