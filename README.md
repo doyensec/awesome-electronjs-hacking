@@ -68,6 +68,7 @@ This list aims to cover Electron.js security related topics.
 - ["From Markdown to RCE in Atom", Lukas Reschke](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom)
 - ["Visual Studio Code silently fixed a remote code execution vulnerability", CodeColorist](https://blog.chichou.me/2018/03/16/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability/)
 - ["OVE-20210809-0001 Visual Studio Code .ipynb Jupyter Notebook XSS (Arbitrary File Read)", Justin Steven](https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md)
+- ["Visual Studio Code Jupyter Notebook RCE ( CVE-2021-26437)", Doyensec Blog](https://blog.doyensec.com/2022/10/27/jupytervscode.html)
 - ["Visual Studio Code - Remote Code Execution in Restricted Mode (CVE-2021-43908)", TheGrandPew and s1r1us](https://blog.electrovolt.io/posts/vscode-rce/)
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
