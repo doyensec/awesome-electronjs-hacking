@@ -106,7 +106,8 @@ This list aims to cover Electron.js security related topics.
 - ["Abusing Electron apps to bypass macOS' security controls", Wojciech Reguła](https://wojciechregula.blog/post/abusing-electron-apps-to-bypass-macos-security-controls/)
 - ["The dangers of Electron's shell.openExternal() — many paths to remote code execution", Benjamin Altpeter](https://benjamin-altpeter.de/shell-openexternal-dangers/)
 - ["1-click RCE in Electron Applications", Pavel Shabarkin](https://shabarkin.medium.com/1-click-rce-in-electron-applications-79b52e1fe8b8)
-
+- ["How to patch apps with ElectronAsarIntegrity on macOS", Karol Mazurek](https://karol-mazurek.medium.com/cracking-electron-integrity-0a10e0d5f239) & [electron_patcher.py](https://github.com/Karmaz95/Snake_Apple/blob/main/App%20Bundle%20Extension/custom/electron_patcher.py)
+  
 ## Books
 
 - ["Cross-Platform Desktop Applications Using Node, Electron, and NW.js", Paul B. Jensen](https://www.manning.com/books/cross-platform-desktop-applications)
