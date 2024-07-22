@@ -93,6 +93,8 @@ This list aims to cover Electron.js security related topics.
 - ["CVE-2018-1000136 - Electron nodeIntegration Bypass", Brendan Scarvell](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2018-1000136-electron-nodeintegration-bypass)
 - ["Remote Code Execution on Element Desktop Application using Node Integration in Sub Frames Bypass", s1r1us and TheGrandPew](https://blog.electrovolt.io/posts/element-rce/)
 - ["CVE-2022-29247 - Disable Electron Context Isolation or enable Node Integration in SubFrames", s1r1us](https://hackerone.com/reports/1647287)
+- ["Weaponizing Chrome CVE-2023-2033 for RCE in Electron", Turb0](https://www.turb0.one/pages/Weaponizing_Chrome_CVE-2023-2033_for_RCE_in_Electron:_Some_Assembly_Required.html)
+- ["Evernote RCE: From PDF.js font-injection to All-platform Electron exposed ipcRenderer with listened BrokerBridge Remote-Code Execution", Patrick Peng](https://0reg.dev/blog/evernote-rce)
 
 ## Blog Posts and Articles
 
@@ -107,6 +109,7 @@ This list aims to cover Electron.js security related topics.
 - ["The dangers of Electron's shell.openExternal() — many paths to remote code execution", Benjamin Altpeter](https://benjamin-altpeter.de/shell-openexternal-dangers/)
 - ["1-click RCE in Electron Applications", Pavel Shabarkin](https://shabarkin.medium.com/1-click-rce-in-electron-applications-79b52e1fe8b8)
 - ["How to patch apps with ElectronAsarIntegrity on macOS", Karol Mazurek](https://karol-mazurek.medium.com/cracking-electron-integrity-0a10e0d5f239) & [electron_patcher.py](https://github.com/Karmaz95/Snake_Apple/blob/main/App%20Bundle%20Extension/custom/electron_patcher.py)
+- ["Using Discord Desktop for Backdoor Persistence", Turb0](https://www.turb0.one/pages/Using_Discord_Desktop_for_Backdoor_Persistence.html)
   
 ## Books
 
