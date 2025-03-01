@@ -95,6 +95,7 @@ This list aims to cover Electron.js security related topics.
 - ["CVE-2022-29247 - Disable Electron Context Isolation or enable Node Integration in SubFrames", s1r1us](https://hackerone.com/reports/1647287)
 - ["Weaponizing Chrome CVE-2023-2033 for RCE in Electron", Turb0](https://www.turb0.one/pages/Weaponizing_Chrome_CVE-2023-2033_for_RCE_in_Electron:_Some_Assembly_Required.html)
 - ["Evernote RCE: From PDF.js font-injection to All-platform Electron exposed ipcRenderer with listened BrokerBridge Remote-Code Execution", Patrick Peng](https://0reg.dev/blog/evernote-rce)
+- ["Achieving RCE in famous Japanese chat tool with an obsolete Electron feature", @ryotkak](https://flatt.tech/research/posts/escaping-electron-isolation-with-obsolete-feature/)
 
 ## Blog Posts and Articles
 
