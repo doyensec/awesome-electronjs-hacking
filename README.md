@@ -33,6 +33,7 @@ This list aims to cover Electron.js security related topics.
 - [ElectroNG](https://get-electrong.com/) Premium SAST tool built after Electronegativity to help  automate  security reviews
 
 [![electrong-banner-small](https://user-images.githubusercontent.com/6027823/195326803-56a1181c-2ae4-4ba5-81ea-cd8148c81bea.png)](https://get-electrong.com/)
+- [jshookmcp](https://github.com/vmoranv/jshookmcp), an MCP workspace that hooks running Electron/Chrome apps over CDP to observe real DOM, network and process behavior for security review and reverse engineering.
 
 ## Papers
 
