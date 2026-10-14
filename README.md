@@ -33,6 +33,7 @@ This list aims to cover Electron.js security related topics.
 - [ElectroNG](https://get-electrong.com/) Premium SAST tool built after Electronegativity to help  automate  security reviews
 
 [![electrong-banner-small](https://user-images.githubusercontent.com/6027823/195326803-56a1181c-2ae4-4ba5-81ea-cd8148c81bea.png)](https://get-electrong.com/)
+- [hexvero](https://github.com/maximilianfeix/hexvero), a static analyzer that reads a packed `app.asar` without running it and lists IPC channels with their senders and handlers, `contextBridge` members with the channel each forwards to, and each window's `webPreferences`, with file and line (CLI, MCP server and local web UI)
 - [jshookmcp](https://github.com/vmoranv/jshookmcp), an MCP workspace that hooks running Electron/Chrome apps over CDP to observe real DOM, network and process behavior for security review and reverse engineering.
 
 ## Papers
