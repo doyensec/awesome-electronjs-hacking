@@ -27,10 +27,10 @@ This list aims to cover Electron.js security related topics.
 
 ## Open-Source & Commercial Tools
 
-- Electronegativity, a static code analysis tool to find vulnerabilities in Electron-based applications [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf)
+- Electronegativity, a static code analysis tool to find vulnerabilities in Electron-based applications [code](https://github.com/doyensec/electronegativity) & [slides](https://doyensec.com/resources/Electronegativity_ArsenalBHUS2019.pdf) [Deprecated]
 - [Devtron](https://www.electronjs.org/blog/electron-1-0#devtron), an Electron DevTools extension
 - [Fiddle](https://github.com/electron/fiddle), to quickly create and play with small Electron experiments across different Electron versions 
-- [ElectroNG](https://get-electrong.com/) Premium SAST tool built after Electronegativity to help  automate  security reviews
+- [ElectroNG](https://get-electrong.com/) SAST tool built after Electronegativity to help  automate  security reviews
 
 [![electrong-banner-small](https://user-images.githubusercontent.com/6027823/195326803-56a1181c-2ae4-4ba5-81ea-cd8148c81bea.png)](https://get-electrong.com/)
 - [hexvero](https://github.com/maximilianfeix/hexvero), a static analyzer that reads a packed `app.asar` without running it and lists IPC channels with their senders and handlers, `contextBridge` members with the channel each forwards to, and each window's `webPreferences`, with file and line (CLI, MCP server and local web UI)
