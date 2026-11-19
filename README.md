@@ -36,6 +36,7 @@ This list aims to cover Electron.js security related topics.
 - [hexvero](https://github.com/maximilianfeix/hexvero), a static analyzer that reads a packed `app.asar` without running it and lists IPC channels with their senders and handlers, `contextBridge` members with the channel each forwards to, and each window's `webPreferences`, with file and line (CLI, MCP server and local web UI)
 - [jshookmcp](https://github.com/vmoranv/jshookmcp), an MCP workspace that hooks running Electron/Chrome apps over CDP to observe real DOM, network and process behavior for security review and reverse engineering.
 - [ReverseAI](https://github.com/dagoSte/reverseai), a static analyzer that reads Electron `app.asar` archives and npm packages without running them (file inventory, package.json declarations and scripts, lexical hints and, with the Babel parser, module imports and sensitive calls such as `child_process`), analyzes the app's native binaries with Ghidra and LIEF in offline containers, and serves byte-anchored evidence to AI agents over MCP
+- [REA](https://github.com/morluto/rea), a local CLI and MCP server that statically inspects Electron app.asar bundles and maps imports, IPC channels, and preload bridges with evidence from the packaged code.
 
 ## Papers
 
