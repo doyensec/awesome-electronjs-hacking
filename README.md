@@ -37,6 +37,7 @@ This list aims to cover Electron.js security related topics.
 - [jshookmcp](https://github.com/vmoranv/jshookmcp), an MCP workspace that hooks running Electron/Chrome apps over CDP to observe real DOM, network and process behavior for security review and reverse engineering.
 - [ReverseAI](https://github.com/dagoSte/reverseai), a static analyzer that reads Electron `app.asar` archives and npm packages without running them (file inventory, package.json declarations and scripts, lexical hints and, with the Babel parser, module imports and sensitive calls such as `child_process`), analyzes the app's native binaries with Ghidra and LIEF in offline containers, and serves byte-anchored evidence to AI agents over MCP
 - [REA](https://github.com/morluto/rea), a local CLI and MCP server that statically inspects Electron app.asar bundles and maps imports, IPC channels, and preload bridges with evidence from the packaged code.
+- [jscdec](https://github.com/8zav3/jscdec), a pure-JS V8 Ignition bytecode decompiler for Bytenode and Electron `.jsc` snapshots (Electron 22-39, Node.js 20-22 x64) with AST/dataflow identifier recovery and an in-browser ASAR/EXE unpacker.
 
 ## Papers
 
