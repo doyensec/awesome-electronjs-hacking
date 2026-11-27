@@ -109,7 +109,7 @@ This list aims to cover Electron.js security related topics.
 - ["Instrumenting Electron Apps for Security Testing", Doyensec Blog](https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html)
 - ["Reasonably Secure Electron", Joe DeMesy](https://know.bishopfox.com/research/reasonably-secure-electron) & [code](https://github.com/moloch--/reasonably-secure-electron)
 - ["As It Stands - Electron Security"](http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html) and ["An update on Electron Security", Dean Kerr](http://blog.scottlogic.com/2016/06/01/An-update-on-Electron-Security.html)
-- ["Exploiting Electron Applications using Debug Feature", Esecurity Lab](https://evren.ninja/blog/en/post/exploiting-electron-applications-/)
+- ["Exploiting Electron Applications using Debug Feature", Esecurity Lab](https://evren.ninja/exploiting-electron-applications-using-debug-feature.html)
 - ["Why Electron apps can’t store your secrets confidentially: \` — inspect\`option", Vladimir Metnew](https://medium.com/@metnew/why-electron-apps-cant-store-your-secrets-confidentially-inspect-option-a49950d6d51f)
 - ["The App Sandbox", Charlie Hess](https://slack.engineering/the-app-sandbox/)
 - ["Abusing Electron apps to bypass macOS' security controls", Wojciech Reguła](https://wojciechregula.blog/post/abusing-electron-apps-to-bypass-macos-security-controls/)
